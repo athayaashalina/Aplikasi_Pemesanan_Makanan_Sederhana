@@ -1,0 +1,2 @@
+# Aplikasi_Pemesanan_Makanan_Sederhana
+Program Java sederhana menggunakan konsep encapsulation untuk pemesanan makanan
